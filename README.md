@@ -11,10 +11,10 @@
    - Grafico_BC_Agropecuaria_V_20260610.xlsx y Balanza Agropecuaria_JGVA.xlsx (Balanza Agropecuaria CA186: Treemaps y contribución al crecimiento).
    - Graficas Morgan Stanley (version 1).xlsb.xlsx y Debunking the Value-Add Myth.xlsx (Cadenas de valor Automotriz vs. Hardware TI/IA con Matrices Insumo-Producto de INEGI).
    - Andrés Gráfica PIB (1).xlsx (Compendio internacional OCDE/G20 de 66 hojas y 10 gráficos).
-   - MONITOR DEL SECTOR EXTERNO.xlsx y Comercio_MX_TW_VN_Census2026.xlsx (Seguimiento SHCP-UPEHP y competitividad en EE.UU. frente a Taiwán y Vietnam).
+   - MONITOR DEL SECTOR EXTERNO.xlsx y Comercio_MX_TW_VN_Census2026.xlsx (Seguimiento Sector Externo y competitividad en EE.UU. frente a Taiwán y Vietnam).
 2. **Big Data de Comercio Exterior ANAM en MySQL 8.0 y Python (+27.4M de operaciones anuales | ~44 GB):**
    - Integración de pedimentos T501 y partidas T551 con prorrateo logístico en dos pasadas e indexación B-Tree en MySQL.
 3. **MacroVisor BIE-INEGI (61,174 Series) y Automatización de APIs (INEGI, Banxico SIE, BIS SDMX).**
-4. **Econometría Aplicada y Riesgo Fiscal Soberano (SHCP):**
+4. **Econometría Aplicada y Riesgo Fiscal Soberano:**
    - Pronóstico SARIMA de Inflación Subyacente sobre 445 genéricos del INPC (RMSE = 0.206 pp, MAPE = 4.58%).
    - Simulación Monte Carlo en Finanzas Públicas (10,000 trayectorias: GBM USD/MXN, Cobertura Petrolera Put Asiática, Vasicek y VaR/CVaR de deuda soberana).
